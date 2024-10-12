@@ -151,3 +151,61 @@ CSS (Cascading Style Sheets) is the technology you learn after HTML. It is used 
 
 ---
 
+## 💻 JavaScript
+
+JavaScript is the language of the web. It enables dynamic, interactive experiences and brings web pages to life.
+
+> 💡 *"Learning JavaScript continues throughout your entire career!"*
+
+### **Learn the Basics:**
+
+- [📄 JavaScript Fundamentals](https://frontendmasters.com/guides/learning-roadmap/javascript-fundamentals/)
+- [📄 DOM Manipulation & BOM](https://frontendmasters.com/guides/learning-roadmap/dom-bom-cssom/)
+- [📄 AJAX, Fetch API, and JSON](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [📄 ES6+ & Modular JS](https://frontendmasters.com/guides/learning-roadmap/javascript-modules-scripts/)
+- [📄 Web APIs - MDN](https://developer.mozilla.org/en-US/docs/Web/API)
+- [📄 JavaScript OOP](https://frontendmasters.com/guides/learning-roadmap/js-oop/)
+- [📄 Regular Expressions (Regex)](https://frontendmasters.com/guides/learning-roadmap/javascript-regular-expressions/) `general skill`
+- JavaScript Algorithms, Data Structures & Design Patterns
+
+---
+
+### 📚 **JavaScript Resources**:
+
+- [📄 MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
+- [📚 Eloquent JavaScript](https://eloquentjavascript.net/)
+- [🎬 Learn JavaScript - FreeCodeCamp](https://youtu.be/EfAl9bwzVZk?si=bCDwOpSTsDJrzcp4) `highly recommended`
+- [🎬 Traversy Media - JS Crash Course](https://youtu.be/hdI2bqOjy3c)
+- [🎬 JavaScript Samurai (Arabic)](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm)
+- [📚 30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
+### 💡 **Practice Projects**:
+
+- [🎬 Build 15 JavaScript Projects - FreeCodeCamp](https://youtu.be/3PHXvlpOkf4)
+- [🎬 Build a Netflix Clone - Traversy Media](https://youtu.be/P7t13SGytRk)
+- [🎬 Learn JavaScript by Building 7 Games](https://youtu.be/lhNdUVh3qCc)
+
+---
+
+### 🧠 **JavaScript Algorithms & Data Structures**:
+
+- [📄 JavaScript Algorithms - FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [🎬 JS Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [🎬 Data Structures in JavaScript - Shadow Coding (Arabic)](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7)
+
+> 💡 Also check out this repository for JavaScript Interview Questions: [JavaScript Interview Questions](https://github.com/FADL285/javascript-interview-questions)
+
+---
+
+## ♿ Accessibility (a11y)
+
+Digital accessibility is about designing websites that everyone, including people with disabilities, can interact with meaningfully.
+
+**Here are some resources to learn Accessibility:**
+
+- [📄 Learn Accessibility - web.dev](https://web.dev/learn/accessibility/)
+- [📄 Learn Accessibility - MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+- [🎬 Web Accessibility Course - Udacity](https://www.udacity.com/course/web-accessibility--ud891)
+- [🎬 Web Accessibility: Getting Started - Pluralsight](https://www.pluralsight.com/courses/web-accessibility-getting-started)
+
+---
