@@ -209,3 +209,69 @@ Digital accessibility is about designing websites that everyone, including peopl
 - [🎬 Web Accessibility: Getting Started - Pluralsight](https://www.pluralsight.com/courses/web-accessibility-getting-started)
 
 ---
+
+# 🧑‍💻 Web Developer Learning Resources 🚀
+
+## 🔧 Web Developer Tools:
+
+- **[Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/)** 🎬📃🎬 💵
+- **[Chrome DevTools Docs](https://developer.chrome.com/docs/devtools/)** 📄
+- **[Google Chrome Developer Tools Crash Course](https://youtu.be/x4q86IjJFag)** 🎬
+- **[21+ Browser Dev Tools & Tips You Need To Know](https://youtu.be/TcTSqhpm80Y)** 🎬
+
+---
+
+## 📦 Package Managers:
+
+A package manager is software that lets you manage dependencies (external code) for your project.
+
+- **[NPM Docs](https://docs.npmjs.com/)** 📖
+  - [NPM Crash Course](https://youtu.be/jHDhaSSKmB0) 🎬
+  - [How To Use NPM (Arabic)](https://youtu.be/OCIRRyBbz_w) 🎬 🇦🇪
+  
+- **[Yarn Docs](https://classic.yarnpkg.com/en/docs)** 📖
+  - [Yarn Package Manager Crash Course](https://youtu.be/g9_6KmiBISk) 🎬
+  - [Yarn Crash Course (Arabic)](https://youtu.be/1Sjhc09Q7f8) 🎬 🇦🇪
+
+- **[pnPm Docs](https://pnpm.io/)** 📖
+
+---
+
+## 🎨 CSS Architecture:
+
+**[BEM](http://getbem.com)** helps structure CSS code simply and clearly.
+
+- **[BEM Introduction](http://getbem.com/introduction/)** 📄
+- **[BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)** 📄
+- **[Organize CSS Using BEM](https://youtu.be/QtX-fPHUSpM)** 🎬 🇦🇪
+- **[Why You Need BEM CSS (Tutorial)](https://youtu.be/er1JEDuPbZQ)** 🎬
+
+---
+
+## 🛠️ CSS Preprocessors:
+
+CSS preprocessors add logic, automation, and reusable snippets to your CSS.
+
+### **Sass** (Syntaxically Awesome Style Sheets):
+- **[Sass Docs](https://sass-lang.com/documentation)** 📖
+- **[Sass Fundamentals](https://frontendmasters.com/courses/sass/)** 🎬📃🎬 💵
+- **[Learn Sass - Elzero Web School](https://elzero.org/study/sass-2021-study-plan/)** 📄
+  - [Sass Arabic Tutorial](https://youtu.be/_a5j7KoflTs) 🎬 🇦🇪
+  - [Sass & BEM for Beginners](https://youtu.be/jfMHA8SqUL4) 🎬
+
+---
+
+## 🖌️ CSS Frameworks:
+
+### 🌀 **Tailwind CSS**:
+- **[Tailwind CSS Official Docs](https://tailwindcss.com/)** 📖
+  - [Tailwind Screencasts (Official)](https://www.youtube.com/c/TailwindLabs/videos) 🎬
+  - [Tailwind CSS Full Course for Beginners (3 Hours)](https://youtu.be/lCxcTsOHrjo) 🎬
+  - [Tailwind CSS Course (Arabic)](https://youtu.be/OCIRRyBbz_w) 🎬 🇦🇪
+  
+### 🟪 **Bootstrap**:
+- **[Bootstrap Docs](https://getbootstrap.com/)** 📖
+  - [Bootstrap 5 Tutorial (Arabic)](https://youtu.be/g9_6KmiBISk) 🎬 🇦🇪
+  - [Bootstrap 5 Crash Course](https://youtu.be/4sosXZsdy-s) 🎬
+
+---
