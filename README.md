@@ -227,11 +227,11 @@ A package manager is software that lets you manage dependencies (external code) 
 
 - **[NPM Docs](https://docs.npmjs.com/)** 📖
   - [NPM Crash Course](https://youtu.be/jHDhaSSKmB0) 🎬
-  - [How To Use NPM (Arabic)](https://youtu.be/OCIRRyBbz_w) 🎬 🇦🇪
+  - [How To Use NPM (Arabic)](https://youtu.be/OCIRRyBbz_w) 🎬 
   
 - **[Yarn Docs](https://classic.yarnpkg.com/en/docs)** 📖
   - [Yarn Package Manager Crash Course](https://youtu.be/g9_6KmiBISk) 🎬
-  - [Yarn Crash Course (Arabic)](https://youtu.be/1Sjhc09Q7f8) 🎬 🇦🇪
+  - [Yarn Crash Course (Arabic)](https://youtu.be/1Sjhc09Q7f8) 🎬 
 
 - **[pnPm Docs](https://pnpm.io/)** 📖
 
@@ -243,7 +243,7 @@ A package manager is software that lets you manage dependencies (external code) 
 
 - **[BEM Introduction](http://getbem.com/introduction/)** 📄
 - **[BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)** 📄
-- **[Organize CSS Using BEM](https://youtu.be/QtX-fPHUSpM)** 🎬 🇦🇪
+- **[Organize CSS Using BEM](https://youtu.be/QtX-fPHUSpM)** 🎬 
 - **[Why You Need BEM CSS (Tutorial)](https://youtu.be/er1JEDuPbZQ)** 🎬
 
 ---
@@ -256,7 +256,7 @@ CSS preprocessors add logic, automation, and reusable snippets to your CSS.
 - **[Sass Docs](https://sass-lang.com/documentation)** 📖
 - **[Sass Fundamentals](https://frontendmasters.com/courses/sass/)** 🎬📃🎬 💵
 - **[Learn Sass - Elzero Web School](https://elzero.org/study/sass-2021-study-plan/)** 📄
-  - [Sass Arabic Tutorial](https://youtu.be/_a5j7KoflTs) 🎬 🇦🇪
+  - [Sass Arabic Tutorial](https://youtu.be/_a5j7KoflTs) 🎬 
   - [Sass & BEM for Beginners](https://youtu.be/jfMHA8SqUL4) 🎬
 
 ---
@@ -267,11 +267,11 @@ CSS preprocessors add logic, automation, and reusable snippets to your CSS.
 - **[Tailwind CSS Official Docs](https://tailwindcss.com/)** 📖
   - [Tailwind Screencasts (Official)](https://www.youtube.com/c/TailwindLabs/videos) 🎬
   - [Tailwind CSS Full Course for Beginners (3 Hours)](https://youtu.be/lCxcTsOHrjo) 🎬
-  - [Tailwind CSS Course (Arabic)](https://youtu.be/OCIRRyBbz_w) 🎬 🇦🇪
+  - [Tailwind CSS Course (Arabic)](https://youtu.be/OCIRRyBbz_w) 🎬 
   
 ### 🟪 **Bootstrap**:
 - **[Bootstrap Docs](https://getbootstrap.com/)** 📖
-  - [Bootstrap 5 Tutorial (Arabic)](https://youtu.be/g9_6KmiBISk) 🎬 🇦🇪
+  - [Bootstrap 5 Tutorial (Arabic)](https://youtu.be/g9_6KmiBISk) 🎬 
   - [Bootstrap 5 Crash Course](https://youtu.be/4sosXZsdy-s) 🎬
 
 ---
