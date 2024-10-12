@@ -291,3 +291,43 @@ A JavaScript library is a collection of pre-written JavaScript code that simplif
 
 ---
 
+## 🚀 Module Bundlers
+
+A JavaScript module bundler compiles small pieces of code (aka modules) into something larger and more complex, such as a library or application.
+
+### 📚 Learning Resources:
+
+- **[Vite 📖](https://vitejs.dev/)**
+    - 🎬 [Learn Vite with Evan You](https://youtu.be/DkGV5F4XnfQ)
+  
+- **[Webpack 📖](https://webpack.js.org/)**
+    - 🎬📃 [Webpack 5 tutorial](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube English Playlist" width="100" />
+    - 🎬 [How to use Webpack](https://youtu.be/M3c9R_xSF1o) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Arabic playlist" width="80" />
+
+---
+
+## 🌐 JavaScript Frameworks
+
+In this section, you will learn about **JavaScript Frameworks**, **JavaScript State Management**, and **Server-side Rendering**.
+
+### 📦 JavaScript Frameworks:
+
+JavaScript frameworks are tools designed to speed up development and organize code used to build modern web apps. They exist to solve problems more directly rather than providing an open set of tools like most libraries do. Many modern companies use frameworks as a standard part of their tooling, so many front-end development jobs require framework experience.
+
+### 🛠️ JavaScript State Management:
+
+State Management helps in updating the UI in related places when there is a change in the application data due to actions performed in the application like clicks, hovers, etc. It also ensures that state changes have been incorporated at corresponding places.
+
+### ⚙️ Server-side Rendering:
+
+Server-side rendering (SSR) is the ability of an application to contribute by displaying the web page on the server instead of rendering it in the browser. The server-side sends a fully rendered page to the client; the client's JavaScript bundle takes over, allowing the Vue.js app to hydrate.
+
+---
+
+### 🌟 Top 3 JavaScript Frameworks:
+
+- **[Vue](https://vuejs.org/)**
+- **[React](https://reactjs.org/)**
+- **[Angular](https://angular.io/)**
+
+> 💡 Before you start learning a framework, I recommend watching this [tutorial 🎬📃🎬](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn). <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Arabic playlist" width="80" /> and this [tutorial 🎬📃🎬](https://www.youtube.com/playlist?list=PLVvjrrRCBy2IDt1Hm8NAiRl_6_io8aS6b).
