@@ -275,3 +275,19 @@ CSS preprocessors add logic, automation, and reusable snippets to your CSS.
   - [Bootstrap 5 Crash Course](https://youtu.be/4sosXZsdy-s) 🎬
 
 ---
+
+## JavaScript Libraries 📚✨
+
+A JavaScript library is a collection of pre-written JavaScript code that simplifies development. 
+
+> 💡 *Search about what you want, and you will find a library to do it.*
+
+---
+
+### Recommended Articles on JavaScript Libraries 📝:
+
+- [10 Awesome JavaScript Libraries You Should Try Out in 2021 📄](https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/)
+- [39 of the Best JavaScript Libraries and Frameworks to Try in 2021 📄](https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/)
+
+---
+
