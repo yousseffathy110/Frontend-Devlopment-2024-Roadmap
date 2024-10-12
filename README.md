@@ -105,3 +105,49 @@ GitHub is a code-hosting platform that allows teams to collaborate on software p
 - [Complete Git and GitHub &nbsp; 🎬](https://youtu.be/Q6G-J54vgKc?si=S7N8j5BTCXa_7OCT)
 
 ---
+
+
+## 🌐 HTML:
+
+HTML stands for Hypertext Markup Language. It is the foundational markup language used to build web pages and is considered the building block of the web. HTML is relatively easy to learn and comprehend, enabling you to create basic websites.
+
+### **📚 Here are some resources to learn HTML:**
+
+- [Learning resources and tools for HTML - Front-End Masters 📄](https://frontendmasters.com/guides/learning-roadmap/html/) ✨💫
+- [Learn HTML - Elzero Web School 📄](https://elzero.org/learn-html/) ✨💫
+- [Learn HTML In Arabic 2021 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [HTML Study Plan 📄](https://elzero.org/study/html-2021-study-plan/)
+- [HTML Assignments 📄](https://elzero.org/category/assignments/html-assignments/)
+- [MDN - HTML 📄](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [Learn HTML](https://youtu.be/kUMe1FH4CHE?si=t26R0psmNNJARPdS) `highly recommended`
+
+> 💡 For writing maintainable and scalable HTML documents, check out this repo: [HTML Best Practices](https://github.com/hail2u/html-best-practices)
+
+---
+
+## 🎨 CSS:
+
+CSS (Cascading Style Sheets) is the technology you learn after HTML. It is used for styling HTML elements. With CSS, you can style your content, control spacing, add colors, fonts, and more to make websites look visually appealing.
+
+### **📚 Here are some resources to learn CSS:**
+
+- [Learn CSS - Elzero Web School 📄](https://elzero.org/learn-css/) ✨💫
+- [CSS Study Plan 📄](https://elzero.org/study/css-2021-study-plan/)
+- [CSS Assignments 📄](https://elzero.org/category/assignments/css-assignments/)
+- [MDN - CSS 📄](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Learn CSS Dave Grey](https://youtu.be/n4R2E7O-Ngo?si=o1x4H-mnpp9GqQTB) `highly recommended`
+- [Web.dev - Learn Responsive Design 📄](https://web.dev/learn/design/) `recommended`
+
+> 💡 Take a look at this repository - [Awesome-CSS-Learning](https://github.com/FADL285/Awesome-CSS-Learning) - A curated list of the best CSS learning resources.
+
+### **📝 The basics of CSS you need to learn:**
+
+- **Basics, Box Model, Colors & Gradients, Units** ➡️ [CSS Fundamentals 📄](https://frontendmasters.com/guides/learning-roadmap/css-fundamentals)
+- **Flow, Positioning, Floats, Flexbox, Grids** ➡️ [CSS Layout 📄](https://frontendmasters.com/guides/learning-roadmap/css-layout/)
+- **Responsive Design & Media Queries** ➡️ [CSS Media Queries 📄](https://frontendmasters.com/guides/learning-roadmap/css-media-queries/)
+- **Animations** ➡️ [CSS Transitions, Transforms & Animations 📄](https://frontendmasters.com/guides/learning-roadmap/css-transitions-transforms-animations/)
+- **Web Fonts, CSS Icons, Google Fonts** ➡️ [CSS Fonts & Icons 📄](https://frontendmasters.com/guides/learning-roadmap/css-fonts-and-icons/)
+- **CSS Variables & Best Practices** ➡️ [CSS Practices 📄](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
+
+---
+
